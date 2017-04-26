@@ -1,0 +1,16 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.10beasts.cn/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://www.10beasts.cn/post-sitemap.xml</loc>
+		<lastmod>2017-04-17T13:32:22+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.10beasts.cn/page-sitemap.xml</loc>
+		<lastmod>2017-02-10T05:26:09+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://www.10beasts.cn/affiliate-links-sitemap.xml</loc>
+		<lastmod>2017-04-10T20:12:07+00:00</lastmod>
+	</sitemap>
+</sitemapindex>

@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.10beasts.cn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.10beasts.cn/go/dji/</loc>
+		<lastmod>2016-10-27T09:12:57+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/go/dji-mavic-pro/</loc>
+		<lastmod>2016-10-27T09:20:05+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/go/dji-phantom-4/</loc>
+		<lastmod>2016-10-27T16:16:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/go/dji-phantom-3-pro/</loc>
+		<lastmod>2016-10-27T16:17:56+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/go/dji-inspire-1/</loc>
+		<lastmod>2016-10-27T16:21:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/go/halo/</loc>
+		<lastmod>2017-04-10T20:12:07+00:00</lastmod>
+	</url>
+</urlset>

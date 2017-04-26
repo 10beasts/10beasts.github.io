@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//www.10beasts.cn/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>http://www.10beasts.cn/</loc>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/blog/</loc>
+		<lastmod>2016-05-15T10:18:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/contact/</loc>
+		<lastmod>2016-06-16T03:35:47+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/about/</loc>
+		<lastmod>2016-08-06T04:19:57+00:00</lastmod>
+		<image:image>
+			<image:loc>http://www.10beasts.cn/wp-content/uploads/2016/04/razer-blade-14-review.jpg</image:loc>
+			<image:caption><![CDATA[About 10Beasts]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/tos/</loc>
+		<lastmod>2016-09-13T13:23:42+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/privacy-policy/</loc>
+		<lastmod>2016-09-13T13:23:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>http://www.10beasts.cn/scholarship/</loc>
+		<lastmod>2017-02-10T05:26:09+00:00</lastmod>
+	</url>
+</urlset>
